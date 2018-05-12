@@ -1,0 +1,118 @@
+_repo: The-Decameron-Volume-II_13102
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rigg, J. M. (James Macmullen)
+    alias: Rigg, James Macmullen
+    birthdate: 1855
+    deathdate: 1926
+    gutenberg_agent_id: '1280'
+    url: http://www.gutenberg.org/2009/agents/1280
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boccaccio, Giovanni
+    birthdate: 1313
+    deathdate: 1375
+    gutenberg_agent_id: '1279'
+    url: http://www.gutenberg.org/2009/agents/1279
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Boccaccio
+description: "The Decameron (Italian title: \"Decameron\" [deˈkaːmeron; dekameˈrɔn;\
+  \ dekameˈron] or \"Decamerone\" [dekameˈroːne]), subtitled \"Prince Galehaut\" (Old\
+  \ Italian: Prencipe Galeotto [ˈprentʃipe ɡaleˈɔtto; ˈprɛntʃipe] and sometimes nicknamed\
+  \ \"Umana commedia\", \"Human comedy\"), is a collection of novellas by the 14th-century\
+  \ Italian author Giovanni Boccaccio (1313–1375). The book is structured as a frame\
+  \ story containing 100 tales told by a group of seven young women and three young\
+  \ men sheltering in a secluded villa just outside Florence to escape the Black Death,\
+  \ which was afflicting the city. Boccaccio probably conceived of The Decameron after\
+  \ the epidemic of 1348, and completed it by 1353. The various tales of love in The\
+  \ Decameron range from the erotic to the tragic. Tales of wit, practical jokes,\
+  \ and life lessons contribute to the mosaic. In addition to its literary value and\
+  \ widespread influence (for example on Chaucer's The Canterbury Tales), it provides\
+  \ a document of life at the time. Written in the vernacular of the Florentine language,\
+  \ it is considered a masterpiece of classical early Italian prose.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Banned Books from Anne Haight's list
+- Erotic Fiction
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13102'
+  wikidata: Q16438
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frame-stories'
+- !lcc 'PQ'
+- !lcsh 'Plague -- Europe -- History -- Fiction'
+- !lcsh 'Allegories'
+- !lcsh 'Storytelling -- Fiction'
+title: The Decameron, Volume II
+url: http://www.gutenberg.org/ebooks/13102
+wikipedia:
+- https://fi.wikipedia.org/wiki/Decamerone
+- https://eo.wikipedia.org/wiki/Dekamerono
+- https://fa.wikipedia.org/wiki/%D8%AF%DA%A9%D8%A7%D9%85%D8%B1%D9%88%D9%86
+- https://ru.wikisource.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD_(%D0%91%D0%BE%D0%BA%D0%BA%D0%B0%D1%87%D1%87%D0%BE)
+- https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Di_ng%C3%A0y
+- https://en.wikisource.org/wiki/The_Decameron
+- https://hy.wikipedia.org/wiki/%D4%B4%D5%A5%D5%AF%D5%A1%D5%B4%D5%A5%D6%80%D5%B8%D5%B6
+- https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://az.wikipedia.org/wiki/Dekameron
+- https://sv.wikipedia.org/wiki/Decamerone
+- https://gl.wikipedia.org/wiki/Decamer%C3%B3n
+- https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AB%E3%83%A1%E3%83%AD%E3%83%B3
+- https://nn.wikipedia.org/wiki/Dekameronen
+- https://ml.wikipedia.org/wiki/%E0%B4%A1%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%AE%E0%B4%B1%E0%B5%BA_%E0%B4%95%E0%B4%A5%E0%B4%95%E0%B5%BE
+- https://bs.wikipedia.org/wiki/Dekameron
+- https://tr.wikipedia.org/wiki/Decameron
+- https://es.wikipedia.org/wiki/Decamer%C3%B3n
+- https://sk.wikipedia.org/wiki/Dekameron
+- https://en.wikipedia.org/wiki/The_Decameron
+- https://ga.wikipedia.org/wiki/Decamerone
+- https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0%E0%A7%8B%E0%A6%A8
+- https://ro.wikipedia.org/wiki/Decameronul
+- https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%B9%B4%EB%A9%94%EB%A1%A0
+- https://pt.wikipedia.org/wiki/Decamer%C3%A3o
+- https://fr.wikipedia.org/wiki/D%C3%A9cam%C3%A9ron
+- https://sh.wikipedia.org/wiki/Decameron
+- https://zh.wikipedia.org/wiki/%E5%8D%81%E6%97%A5%E8%AB%87
+- https://ast.wikipedia.org/wiki/Decamer%C3%B3n
+- https://lmo.wikipedia.org/wiki/Decameron
+- https://pl.wikipedia.org/wiki/Dekameron
+- https://da.wikipedia.org/wiki/Dekameron
+- https://simple.wikipedia.org/wiki/Decameron
+- https://be-tarask.wikipedia.org/wiki/%D0%94%D1%8D%D0%BA%D0%B0%D0%BC%D1%8D%D1%80%D0%BE%D0%BD
+- https://ru.wikiquote.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B5
+- https://be.wikipedia.org/wiki/%D0%94%D1%8D%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://sq.wikipedia.org/wiki/Dekameroni
+- https://hu.wikipedia.org/wiki/Dekameron
+- https://mk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%94%E1%83%99%E1%83%90%E1%83%9B%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%98
+- https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D9%88%D9%86
+- https://nl.wikipedia.org/wiki/Decamerone
+- https://id.wikipedia.org/wiki/Decameron
+- https://sl.wikipedia.org/wiki/Dekameron
+- https://cs.wikipedia.org/wiki/Dekameron
+- https://oc.wikipedia.org/wiki/Decameron
+- https://de.wikipedia.org/wiki/Decamerone
+- https://lv.wikipedia.org/wiki/Dekamerons
+- https://eu.wikipedia.org/wiki/Dekamerona
+- https://bg.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://it.wikipedia.org/wiki/Decamerone
+- https://br.wikipedia.org/wiki/Il_Decameron
+- https://la.wikipedia.org/wiki/Decameron
+- https://hr.wikipedia.org/wiki/Dekameron
+- https://ca.wikipedia.org/wiki/Decamer%C3%B3
+- https://no.wikipedia.org/wiki/Dekameronen
+- https://nl.wikibooks.org/wiki/Decamerone
+- https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD
+- https://he.wikipedia.org/wiki/%D7%93%D7%A7%D7%90%D7%9E%D7%A8%D7%95%D7%9F
